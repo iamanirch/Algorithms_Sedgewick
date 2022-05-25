@@ -1,2 +1,5 @@
 *.class
 *.log
+/shelf/
+/workspace.xml
+/out/
