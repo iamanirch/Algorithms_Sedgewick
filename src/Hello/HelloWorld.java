@@ -1,3 +1,7 @@
+package Hello;
+
+import edu.princeton.cs.algs4.*;
+
 /* *****************************************************************************
  *  Name:              Ada Lovelace
  *  Coursera User ID:  123456
